@@ -17,6 +17,17 @@ Este projeto é totalmente estático e pode ser hospedado gratuitamente com **Gi
 
 ---
 
+## 🎸 Artistas
+
+- Slipknot
+- SOAD
+- Deftones
+- Korn
+- Nirvana
+- Metallica
+
+---
+
 ## 🧪 Tecnologias usadas
 
 - HTML5
